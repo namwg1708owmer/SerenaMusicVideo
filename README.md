@@ -12,7 +12,7 @@
 
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Godofanjal/SerenaMusicVideo)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nameg1708/SerenaMusicVideo)
 
 ### ʜᴇʟᴘ ᴍᴇɴᴜ
 
